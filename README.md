@@ -1,0 +1,2 @@
+# MailFolderOutlookAddin
+MailFolderExtension for outlook
